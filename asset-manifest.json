@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Demonologia/static/css/main.2c54790b.css",
+    "main.js": "/Demonologia/static/js/main.af8a4965.js",
+    "static/js/787.79c63ee5.chunk.js": "/Demonologia/static/js/787.79c63ee5.chunk.js",
+    "index.html": "/Demonologia/index.html",
+    "main.2c54790b.css.map": "/Demonologia/static/css/main.2c54790b.css.map",
+    "main.af8a4965.js.map": "/Demonologia/static/js/main.af8a4965.js.map",
+    "787.79c63ee5.chunk.js.map": "/Demonologia/static/js/787.79c63ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c54790b.css",
+    "static/js/main.af8a4965.js"
+  ]
+}
